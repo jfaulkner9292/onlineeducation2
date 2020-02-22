@@ -1,6 +1,8 @@
 /*import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
+Test
+
 import './main.html';
 
 Template.hello.onCreated(function helloOnCreated() {
