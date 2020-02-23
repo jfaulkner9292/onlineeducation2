@@ -1,7 +1,7 @@
 /*import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
 
-Test
+Test 2
 
 import './main.html';
 
